@@ -1,0 +1,13 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "6.1",
+        "phpunit/phpunit": "5.0"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-0": {
+            "phpUnitTutorial": ""
+        }
+    }
+}
